@@ -18,5 +18,5 @@ Pod::Spec.new do |s|
   s.framework    = 'UIKit'
 
   s.dependency 'React-Core'
-  s.dependency 'ZendeskChatSDK', :git => 'https://github.com/mtr1012/react-native-zendesk-chat.git', :commit => 'c4fad57'
+  s.dependency 'ChatSDKNew', '~> 1.0.0'
 end
