@@ -18,5 +18,5 @@ Pod::Spec.new do |s|
   s.framework    = 'UIKit'
 
   s.dependency 'React-Core'
-  s.dependency 'ChatSDKNew', '1.0.0'
+  s.dependency 'ChatSDKNew', '~> 1.0'
 end
